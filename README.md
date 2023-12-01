@@ -22,6 +22,10 @@ On epoch 10 the generator and discriminator losses were 0.08 and 0.02 respective
 
 It does seem to be learning to make shirts or coats. So, it is probably working, and training it for longer with more noise would probably yield better results.
 
+## Models
+
+The models have been saved in the `models` folder. The generator and discriminator are saved as `generator.pth` and `discriminator.pth` respectively.
+
 ## Ref:
 
 - Architecture: [nicknochnack](https://github.com/nicknochnack)
